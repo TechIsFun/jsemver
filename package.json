@@ -1,0 +1,11 @@
+{
+  "name": "jsemver",
+  "version": "1.0.0",
+  "description": "A plain Java object representation of Semantic Versioning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrea Maglie",
+  "license": "ISC"
+}
