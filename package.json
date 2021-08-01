@@ -1,15 +1,15 @@
 {
   "name": "jsemver",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A plain Java object representation of Semantic Versioning",
   "main": "index.js",
   "scripts": {
     "test": "echo \"No test specified\"",
     "prepare": "husky install",
-    "release": "standard-version",
-    "release:minor": "standard-version --release-as minor",
-    "release:patch": "standard-version --release-as patch",
-    "release:major": "standard-version --release-as major"
+    "prepare-release": "standard-version",
+    "prepare-release:minor": "standard-version --release-as minor",
+    "prepare-release:patch": "standard-version --release-as patch",
+    "prepare-release:major": "standard-version --release-as major"
   },
   "author": "Andrea Maglie",
   "license": "ISC",
