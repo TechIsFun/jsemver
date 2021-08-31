@@ -14,7 +14,7 @@
   "author": "Andrea Maglie",
   "license": "ISC",
   "devDependencies": {
-    "husky": "7.0.1",
+    "husky": "7.0.2",
     "standard-version": "9.3.1"
   },
   "dependencies": {
